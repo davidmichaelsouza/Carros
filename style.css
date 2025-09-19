@@ -1,6 +1,30 @@
 body{
     font-family:"Noto Sans Siddham", sans-serif;
-    background-color:rgb(91, 91, 91);
-    color: white;
-    margin; opx
-}
+    background-color:rgb(91, 91, 91)
+    color white
+    margin opx
+} ;
+ header{
+    border-bottom: white;
+    color: rgb(91, 91, 91);
+ }
+
+ h1{
+    font-size: 30px;
+ }
+
+ p{
+    font-size:20px;
+ }
+
+ section{
+    background-color: red;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .chamada-texto{
+    
+ }
